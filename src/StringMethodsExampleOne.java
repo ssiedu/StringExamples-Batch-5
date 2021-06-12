@@ -42,7 +42,6 @@ public class StringMethodsExampleOne {
  		boolean				equalsIgnoreCase(String)
  		boolean				startsWith(String)	//it checks the begining of a string
  		boolean 			endsWith(String)	//it checks the ending of a string
- 		
  		int 				compareTo(String)
  		
  					int n=s1.compareTo(s2);
